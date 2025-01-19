@@ -1,0 +1,602 @@
+[
+    {
+        "paper_num": 0,
+        "paper_title": "User-centered approaches in software development processes: Qualitative research into the practice of Hungarian companies",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 1,
+        "paper_title": "Visual Language for Use Case Description",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2016"
+    },
+    {
+        "paper_num": 2,
+        "paper_title": "A user-centered behavioral software development model",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 3,
+        "paper_title": "Toward a hybrid model for usability resource allocation in industrial software product development",
+        "publication_title": "Human Factors and Ergonomics in Manufacturing \\& Service Industries",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 4,
+        "paper_title": "Assessing the implementation of authentic, client-facing student projects in user experience (UX) education: Insights from multiple stakeholders",
+        "publication_title": "Proceedings of the Association for Information Science and Technology",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 5,
+        "paper_title": "Implementation Science Meets Software Development to Create eHealth Components for an Integrated Care Model for Allogeneic Stem Cell Transplantation Facilitated by eHealth: The SMILe Study as an Example",
+        "publication_title": "Journal of Nursing Scholarship",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 6,
+        "paper_title": "A User-centered Design for the Addition of Interactive Masking Capability within an existing Web GIS",
+        "publication_title": "Transactions in GIS",
+        "publication_year": "2016"
+    },
+    {
+        "paper_num": 7,
+        "paper_title": "Valuable Connections: Design Anthropology and Co-creation in Digital Innovation",
+        "publication_title": "Ethnographic Praxis in Industry Conference Proceedings",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 8,
+        "paper_title": "Agile Software Development",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 9,
+        "paper_title": "QuantumPath: A quantum software development platform",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 10,
+        "paper_title": "A hybrid assessment approach for medical device software development companies",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 11,
+        "paper_title": "Usability and user experience evaluation of natural user interfaces: a systematic mapping study",
+        "publication_title": "IET Software",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 12,
+        "paper_title": "IT Is From Mars and Physicians From Venus: Bridging the Gap",
+        "publication_title": "PM\\&R",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 13,
+        "paper_title": "Increasing Perceived Agency in Human-AI Interactions: Learnings from Piloting a Voice User Interface with Drivers on Uber",
+        "publication_title": "Ethnographic Praxis in Industry Conference Proceedings",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 14,
+        "paper_title": "A conceptual framework for SPI evaluation",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 15,
+        "paper_title": "Avispa: a tool for analyzing software process models",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 16,
+        "paper_title": "Analyzing the requirements to implement a data analysis model for software process improvement",
+        "publication_title": "Concurrency and Computation: Practice and Experience",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 17,
+        "paper_title": "Search-based software engineering for optimising usability of user interfaces within model transformations",
+        "publication_title": "IET Software",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 18,
+        "paper_title": "Building Technology Trust in a Rural Agricultural e-Marketplace: A User Requirements Perspective",
+        "publication_title": "THE ELECTRONIC JOURNAL OF INFORMATION SYSTEMS IN DEVELOPING COUNTRIES",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 19,
+        "paper_title": "VR-Rides: An object-oriented application framework for immersive virtual reality exergames",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 20,
+        "paper_title": "The CMMI Project",
+        "publication_title": "INCOSE International Symposium",
+        "publication_year": "1999"
+    },
+    {
+        "paper_num": 21,
+        "paper_title": "Usability implications in software architecture: The case study of a mobile app",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 22,
+        "paper_title": "Pattern-based software process modeling for dependability",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 23,
+        "paper_title": "User experience design and agile development: managing cooperation through articulation work",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 24,
+        "paper_title": "Analytic hierarchy process-based prioritization framework for vendor's reliability challenges in global software development",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 25,
+        "paper_title": "Towards a software component assembly evaluation",
+        "publication_title": "IET Software",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 26,
+        "paper_title": "Decision Support System for Municipal Energy Utilities: Approach, Architecture, and Implementation",
+        "publication_title": "Chemical Engineering \\& Technology",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 27,
+        "paper_title": "Are Usability Assessment Techniques Reliable in Non-Western Cultures?",
+        "publication_title": "THE ELECTRONIC JOURNAL OF INFORMATION SYSTEMS IN DEVELOPING COUNTRIES",
+        "publication_year": "2000"
+    },
+    {
+        "paper_num": 28,
+        "paper_title": "Want to improve your coordination? Attend to patterns",
+        "publication_title": "Bulletin of the American Society for Information Science and Technology",
+        "publication_year": "2012"
+    },
+    {
+        "paper_num": 29,
+        "paper_title": "Exploratory inspection\u2014a user-based learning method for improving open source software usability",
+        "publication_title": "Journal of Software Maintenance and Evolution: Research and Practice",
+        "publication_year": "2010"
+    },
+    {
+        "paper_num": 30,
+        "paper_title": "An expert system for the selection of software design patterns",
+        "publication_title": "Expert Systems",
+        "publication_year": "2006"
+    },
+    {
+        "paper_num": 31,
+        "paper_title": "Designing at t + n",
+        "publication_title": "Architectural Design",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 32,
+        "paper_title": "Value-oriented quality metrics in software development: Practical relevance from a software engineering perspective",
+        "publication_title": "IET Software",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 33,
+        "paper_title": "Evaluation of cognitively accessible software to increase independent access to cellphone technology for people with intellectual disability",
+        "publication_title": "Journal of Intellectual Disability Research",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 34,
+        "paper_title": "USQA: A User Story Quality Analyzer prototype for supporting software engineering students",
+        "publication_title": "Computer Applications in Engineering Education",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 35,
+        "paper_title": "That site looks 88.46\\% familiar: quantifying similarity of Web page design",
+        "publication_title": "Expert Systems",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 36,
+        "paper_title": "An experimental study on tuning the consistency of NoSQL systems",
+        "publication_title": "Concurrency and Computation: Practice and Experience",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 37,
+        "paper_title": "Some structural measures of API usability",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 38,
+        "paper_title": "SDK4ED: A platform for technical debt management",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 39,
+        "paper_title": "Integrative Software Design for Reliability: Beyond Models and Defect Prediction",
+        "publication_title": "Bell Labs Technical Journal",
+        "publication_year": "2012"
+    },
+    {
+        "paper_num": 40,
+        "paper_title": "New non-homogeneous Poisson process software reliability model based on a 3-parameter S-shaped function",
+        "publication_title": "IET Software",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 41,
+        "paper_title": "Sentiment analysis for mining texts and social networks data: Methods and tools",
+        "publication_title": "WIREs Data Mining and Knowledge Discovery",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 42,
+        "paper_title": "A systematic review of tools, languages, and methodologies for mashup development",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 43,
+        "paper_title": "From mathematical model towards educational simulation game of hemodynamics of cardiovascular system",
+        "publication_title": "The FASEB Journal",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 44,
+        "paper_title": "Evaluation of an approach to define elicitation guides of non-functional requirements",
+        "publication_title": "IET Software",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 45,
+        "paper_title": "Metrics for quantifying evolutionary changes in Z specifications",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 46,
+        "paper_title": "Automatically identifying potential regressions in the layout of responsive web pages",
+        "publication_title": "Software Testing, Verification and Reliability",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 47,
+        "paper_title": "Usability testing of a multimedia e-learning resource for electrolyte and acid-base disorders",
+        "publication_title": "British Journal of Educational Technology",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 48,
+        "paper_title": "An exploratory study on the evolution of Android malware quality",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 49,
+        "paper_title": "Spotting the difference",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 50,
+        "paper_title": "Cerebro, the Virtual Lab - a mobile neuroanatomy game that is both fun and educational",
+        "publication_title": "The FASEB Journal",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 51,
+        "paper_title": "Investigating the role of usable security in developers' intention toward security enhancement in service-oriented applications",
+        "publication_title": "SECURITY AND PRIVACY",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 52,
+        "paper_title": "Feasibility of a mHealth survey application for incarcerated and postrelease people living with HIV in a low-resource setting",
+        "publication_title": "Research in Nursing \\& Health",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 53,
+        "paper_title": "SABDM: A self-attention based bidirectional-RNN deep model for requirements classification",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": ""
+    },
+    {
+        "paper_num": 54,
+        "paper_title": "ASpecD: A Modular Framework for the Analysis of Spectroscopic Data Focussing on Reproducibility and Good Scientific Practice**",
+        "publication_title": "Chemistry\u2013Methods",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 55,
+        "paper_title": "UML design pattern metamodel-level constraints for the maintenance of software evolution",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 56,
+        "paper_title": "Development of feedback system by customized UI to improve UX of web page",
+        "publication_title": "Electronics and Communications in Japan",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 57,
+        "paper_title": "Integration of artificial intelligence activities in software development processes and measuring effectiveness of integration",
+        "publication_title": "IET Software",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 58,
+        "paper_title": "Effective in-service education requires more than subject expertise",
+        "publication_title": "Journal of Healthcare Risk Management",
+        "publication_year": "2010"
+    },
+    {
+        "paper_num": 59,
+        "paper_title": "Goal Setting Through Contradiction Analysis in the Bionics-Oriented Construction Process",
+        "publication_title": "Creativity and Innovation Management",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 60,
+        "paper_title": "Understand your community's needs to serve your students",
+        "publication_title": "Enrollment Management Report",
+        "publication_year": "2016"
+    },
+    {
+        "paper_num": 61,
+        "paper_title": "Understand your community's needs to serve your students",
+        "publication_title": "Recruiting \\& Retaining Adult Learners",
+        "publication_year": "2016"
+    },
+    {
+        "paper_num": 62,
+        "paper_title": "DENTSPLY International, Inc. (NEW)",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2006"
+    },
+    {
+        "paper_num": 63,
+        "paper_title": "DENTSPLY International, Inc. (New)",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 64,
+        "paper_title": "DENTSPLY International, Inc.",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 65,
+        "paper_title": "Measurement of workload for voice user interface systems",
+        "publication_title": "Systems and Computers in Japan",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 66,
+        "paper_title": "DENTSPLY International, Inc.",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 67,
+        "paper_title": "DENTSPLY International, Inc.",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 68,
+        "paper_title": "DentSply International, Inc.",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 69,
+        "paper_title": "DENTSPLY International, Inc.",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 70,
+        "paper_title": "DENTSPLY International, Inc",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 71,
+        "paper_title": "DENTSPLY International, Inc.",
+        "publication_title": "Mergent's Dividend Achievers",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 72,
+        "paper_title": "TH-C-12A-12: Veritas: An Open Source Tool to Facilitate User Interaction with TrueBeam Developer Mode",
+        "publication_title": "Medical Physics",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 73,
+        "paper_title": "The development of an exemplar e-module for the continuing professional development of European dentists",
+        "publication_title": "European Journal of Dental Education",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 74,
+        "paper_title": "Improving the usefulness of a tool for appraising the quality of qualitative, quantitative and mixed methods studies, the Mixed Methods Appraisal Tool (MMAT)",
+        "publication_title": "Journal of Evaluation in Clinical Practice",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 75,
+        "paper_title": "Description of a process development methodology",
+        "publication_title": "Software Process: Improvement and Practice",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 76,
+        "paper_title": "An Advocate for Everything: Exploring Exhibit Development Models",
+        "publication_title": "Curator: The Museum Journal",
+        "publication_year": "2001"
+    },
+    {
+        "paper_num": 77,
+        "paper_title": "Prevention and treatment of pediatric obesity using mobile and wireless technologies: a systematic review",
+        "publication_title": "Pediatric Obesity",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 78,
+        "paper_title": "Compliance checking of software processes: A systematic literature review",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 79,
+        "paper_title": "Developing image analysis methods for digital pathology",
+        "publication_title": "The Journal of Pathology",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 80,
+        "paper_title": "A user-centered behavioral software development model",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 81,
+        "paper_title": "CollectionSpace: A story of open-source software development and user-centered design",
+        "publication_title": "Bulletin of the American Society for Information Science and Technology",
+        "publication_year": "2012"
+    },
+    {
+        "paper_num": 82,
+        "paper_title": "E-government II. Introducing user-centered design to an E-government software development company",
+        "publication_title": "Bulletin of the American Society for Information Science and Technology",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 83,
+        "paper_title": "User-centered approaches in software development processes: Qualitative research into the practice of Hungarian companies",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 84,
+        "paper_title": "User experience design and agile development: managing cooperation through articulation work",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 85,
+        "paper_title": "Search-based software engineering for optimising usability of user interfaces within model transformations",
+        "publication_title": "IET Software",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 86,
+        "paper_title": "Usability processes in open source projects",
+        "publication_title": "Software Process: Improvement and Practice",
+        "publication_year": "2006"
+    },
+    {
+        "paper_num": 87,
+        "paper_title": "A user-centered behavioral software development model",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 88,
+        "paper_title": "Implementation Science Meets Software Development to Create eHealth Components for an Integrated Care Model for Allogeneic Stem Cell Transplantation Facilitated by eHealth: The SMILe Study as an Example",
+        "publication_title": "Journal of Nursing Scholarship",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 89,
+        "paper_title": "Technique for representing requirements using personas: a controlled experiment",
+        "publication_title": "IET Software",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 90,
+        "paper_title": "Usability and user experience evaluation of natural user interfaces: a systematic mapping study",
+        "publication_title": "IET Software",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 91,
+        "paper_title": "Agile Software Development",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 92,
+        "paper_title": "Strategic planning of continuous stakeholder involvement in the design of industrial product-service systems",
+        "publication_title": "IET Collaborative Intelligent Manufacturing",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 93,
+        "paper_title": "Toward the participatory human-centred community an exploration of cyber-physical public design for urban experience",
+        "publication_title": "IET Cyber-Physical Systems: Theory \\& Applications",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 94,
+        "paper_title": "USQA: A User Story Quality Analyzer prototype for supporting software engineering students",
+        "publication_title": "Computer Applications in Engineering Education",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 95,
+        "paper_title": "Involving user perspective in a software risk management process",
+        "publication_title": "Journal of Software: Evolution and Process",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 96,
+        "paper_title": "User experience design and agile development: managing cooperation through articulation work",
+        "publication_title": "Software: Practice and Experience",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 97,
+        "paper_title": "Search-based software engineering for optimising usability of user interfaces within model transformations",
+        "publication_title": "IET Software",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 98,
+        "paper_title": "Designing game scenarios for software project management education and assessment",
+        "publication_title": "IET Software",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 99,
+        "paper_title": "Integration of artificial intelligence activities in software development processes and measuring effectiveness of integration",
+        "publication_title": "IET Software",
+        "publication_year": "2017"
+    }
+]

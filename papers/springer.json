@@ -1,0 +1,962 @@
+[
+    {
+        "paper_num": 0,
+        "paper_title": "What Counts as Software Process? Negotiating the Boundary of Software Work Through Artifacts and Conversation",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 1,
+        "paper_title": "Agile Project Management: A Case Study of a Virtual Research Environment Development Project",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 2,
+        "paper_title": "Software Development Cultures and Cooperation Problems: A Field Study of the Early Stages of Development of Software for a Scientific Community",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 3,
+        "paper_title": "On The Roles of APIs in the Coordination of Collaborative Software Development",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 4,
+        "paper_title": "Using Developer Activity Data to Enhance Awareness during Collaborative Software Development",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 5,
+        "paper_title": "Design Indirections",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 6,
+        "paper_title": "How Do Users Discover New Tools in Software Development and Beyond?",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 7,
+        "paper_title": "Supporting the Collaborative Appropriation of an Open Software Ecosystem",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 8,
+        "paper_title": "The Types, Roles, and Practices of Documentation in Data Analytics Open Source Software Libraries",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 9,
+        "paper_title": "Socialization in an Open Source Software Community: A Socio-Technical Analysis",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 10,
+        "paper_title": "Testing in the Wild: The Social and Organisational Dimensions of Real World Practice",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 11,
+        "paper_title": "Special Theme: Project Management in E-Science: Challenges and Opportunities",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 12,
+        "paper_title": "Revisiting the Digital Plumber: Modifying the Installation Process of an Established Commercial IoT Alarm System",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 13,
+        "paper_title": "Co-Creating Platform Governance Models Using Boundary Resources: a Case Study from Dementia Care Services",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 14,
+        "paper_title": "Turning Conflicts into Collaboration",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 15,
+        "paper_title": "Making Sense of Enterprise Apps in Everyday Work Practices",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 16,
+        "paper_title": "Blended Spaces for Collaboration",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 17,
+        "paper_title": "Negotiating Priorities on the Shopfloor: A Design Case Study of Maintainers\u2019 Practices",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 18,
+        "paper_title": "\u201cRemain Faithful to the Earth!\u201d*: Reporting Experiences of Artifact-Centered Design in Healthcare",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 19,
+        "paper_title": "Rating Working Conditions on Digital Labor Platforms",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 20,
+        "paper_title": "Supporting Effortless Coordination: 25 Years of Awareness Research",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 21,
+        "paper_title": "Supporting Adaptable Consistency Control in Structured Collaborative Workspaces",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 22,
+        "paper_title": "Collaboration Among Designers: Analysing an Activity for System Development",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 23,
+        "paper_title": "The March of Chatbots into Recruitment: Recruiters\u2019 Experiences, Expectations, and Design Opportunities",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 24,
+        "paper_title": "Over the Shoulder Learning: Supporting Brief Informal Learning",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 25,
+        "paper_title": "Infrastructuring for Cultural Commons",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 26,
+        "paper_title": "The Missing \u201cTurn to Practice\u201d in the Digital Transformation of Industry",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 27,
+        "paper_title": "Crisis Crowdsourcing Framework: Designing Strategic Configurations of Crowdsourcing for the Emergency Management Domain",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 28,
+        "paper_title": "Fostering Research Data Management in Collaborative Research Contexts: Lessons learnt from an \u2018Embedded\u2019 Evaluation of \u2018Data Story\u2019",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 29,
+        "paper_title": "A Review of 25 Years of CSCW Research in Healthcare: Contributions, Challenges and Future Agendas",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 30,
+        "paper_title": "Achieving Dependability in the Configuration, Integration and Testing of Healthcare Technologies",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2006"
+    },
+    {
+        "paper_num": 31,
+        "paper_title": "Platformic Management, Boundary Resources for Gig Work, and Worker Autonomy",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 32,
+        "paper_title": "Imaginaries and Crystallization Processes in Bitcoin Infrastructuring",
+        "publication_title": "Computer Supported Cooperative Work (CSCW)",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 33,
+        "paper_title": "What do software startups need from UX work?",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 34,
+        "paper_title": "How Scrum adds value to achieving software quality?",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 35,
+        "paper_title": "The entrepreneurial logic of startup software development: A study of 40 software startups",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 36,
+        "paper_title": "Cooperative method development",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 37,
+        "paper_title": "Older adults and hackathons: a qualitative study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 38,
+        "paper_title": "A replicated quasi-experimental study on the influence of personality and team climate in software development",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 39,
+        "paper_title": "Finding the sweet spot for organizational control and team autonomy in large-scale agile software development",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 40,
+        "paper_title": "Strategies to manage quality requirements in agile software development: a multiple case study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 41,
+        "paper_title": "Understanding the Influence of User Participation and Involvement on System Success \u2013 a Systematic Mapping Study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 42,
+        "paper_title": "The impact of agile practices on communication in software development",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 43,
+        "paper_title": "Developer discussion topics on the adoption and barriers of low code software development platforms",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 44,
+        "paper_title": "Understanding and supporting the design systems practice",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 45,
+        "paper_title": "Does agile methodology fit all characteristics of software projects? Review and analysis",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 46,
+        "paper_title": "Challenges and practices in aligning requirements with verification and validation: a case study of six companies",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 47,
+        "paper_title": "The life-cycle of merge conflicts: processes, barriers, and strategies",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 48,
+        "paper_title": "A teamwork effectiveness model for agile software development",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 49,
+        "paper_title": "An empirically based model of software prototyping: a mapping study and a multi-case study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 50,
+        "paper_title": "Strengths and barriers behind the successful agile deployment\u2014insights from the three software intensive companies in Finland",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2012"
+    },
+    {
+        "paper_num": 51,
+        "paper_title": "A qualitative study of developers\u2019 discussions of their problems and joys during the early COVID-19 months",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 52,
+        "paper_title": "Software selection in large-scale software engineering: A model and criteria based on interactive rapid reviews",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 53,
+        "paper_title": "Developing a grounded theory to explain the practices of self-organizing Agile teams",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2012"
+    },
+    {
+        "paper_num": 54,
+        "paper_title": "Software engineering in start-up companies: An analysis of 88 experience reports",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 55,
+        "paper_title": "Studying Software Engineers: Data Collection Techniques for Software Field Studies",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 56,
+        "paper_title": "Requirements Engineering and Downstream Software Development: Findings from a Case Study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 57,
+        "paper_title": "Gamification in software engineering: the mediating role of developer engagement and job satisfaction",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 58,
+        "paper_title": "Empirical software engineering experts on the use of students and professionals in experiments",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 59,
+        "paper_title": "Software engineering whispers: The effect of textual vs. graphical software design descriptions on software design communication",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 60,
+        "paper_title": "Guest editorial for special section on success and failure in software engineering",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 61,
+        "paper_title": "Responding to change over time: A longitudinal case study on changes in coordination mechanisms in large-scale agile",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 62,
+        "paper_title": "Improving requirements-test alignment by prescribing practices that mitigate communication gaps",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 63,
+        "paper_title": "Analysing app reviews for software engineering: a systematic literature review",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 64,
+        "paper_title": "Refactoring with domain-driven design in an industrial context",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2023"
+    },
+    {
+        "paper_num": 65,
+        "paper_title": "A gamification solution for improving Scrum adoption",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 66,
+        "paper_title": "A practical guide to controlled experiments of software engineering tools with human participants",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 67,
+        "paper_title": "A longitudinal explanatory case study of coordination in a very large development programme: the impact of transitioning from a first- to a second-generation large-scale agile development method",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 68,
+        "paper_title": "A comprehensive overview of software product management challenges",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 69,
+        "paper_title": "Characterizing industry-academia collaborations in software engineering: evidence from 101 projects",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 70,
+        "paper_title": "Perspectives on refactoring planning and practice: an empirical study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2016"
+    },
+    {
+        "paper_num": 71,
+        "paper_title": "Game-based Sprint retrospectives: multiple action research",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 72,
+        "paper_title": "The making of accessible Android applications: an empirical study on the state of the practice",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 73,
+        "paper_title": "Fostering effective inter-team knowledge sharing in agile software development",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 74,
+        "paper_title": "An initial analysis of software engineers\u2019 attitudes towards organizational change",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 75,
+        "paper_title": "Towards understanding the relationship between team climate and software quality\u2014a quasi-experimental study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2008"
+    },
+    {
+        "paper_num": 76,
+        "paper_title": "Practical relevance of software engineering research: synthesizing the community\u2019s voice",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2020"
+    },
+    {
+        "paper_num": 77,
+        "paper_title": "From anecdote to evidence: the relationship between personality and need for cognition of developers",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 78,
+        "paper_title": "Development of recommendation systems for software engineering: the CROSSMINER experience",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 79,
+        "paper_title": "Exploring Performance Assurance Practices and Challenges in Agile Software Development: An Ethnographic Study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2022"
+    },
+    {
+        "paper_num": 80,
+        "paper_title": "Data collection in global software engineering research: learning from past experience",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2014"
+    },
+    {
+        "paper_num": 81,
+        "paper_title": "Large-scale agile transformation at Ericsson: a case study",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 82,
+        "paper_title": "Assessing practitioner beliefs about software engineering",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2021"
+    },
+    {
+        "paper_num": 83,
+        "paper_title": "An industrial case study on the use of UML in software maintenance and its perceived benefits and hurdles",
+        "publication_title": "Empirical Software Engineering",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 84,
+        "paper_title": "IFIP WG 13.2 Workshop on User Experience and User-Centered Development Processes",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 85,
+        "paper_title": "Handling Security, Usability, User Experience and Reliability in User-Centered Development Processes",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 86,
+        "paper_title": "Existing but Not Explicit - The User Perspective in Scrum Projects in Practice",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 87,
+        "paper_title": "A Glass Box Design: Making the Impact of Usability on Software Development Visible",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 88,
+        "paper_title": "Task Allocation Between UX Specialists and Developers in Agile Software Development Projects",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 89,
+        "paper_title": "Value Creation and Delivery in Agile Software Development: Overcoming Stakeholder Conflicts",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2018"
+    },
+    {
+        "paper_num": 90,
+        "paper_title": "Are Engineers Condemned to Design? A Survey on Software Engineering and UI Design in Switzerland",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 91,
+        "paper_title": "User eXperience: Tools for Developers",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 92,
+        "paper_title": "Do Usability Professionals Think about User Experience in the Same Way as Users and Developers Do?",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 93,
+        "paper_title": "Evangelizing Usability to 700 People: Strategies for Building a User-Centered Organizational Culture",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 94,
+        "paper_title": "5th Workshop on Software and Usability Engineering Cross-Pollination: Patterns, Usability and User Experience",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 95,
+        "paper_title": "Managing User Experience Managing Change",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 96,
+        "paper_title": "Usability Evaluation in Software Development Practice",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 97,
+        "paper_title": "Interplay between Usability Evaluation and Software Development (I-USED 2009)",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 98,
+        "paper_title": "Institutionalizing HCI in Asia",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 99,
+        "paper_title": "Galactic Dimensions: A Unifying Workstyle Model for User-Centered Design",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2005"
+    },
+    {
+        "paper_num": 100,
+        "paper_title": "Usability Design: A New Rational Unified Process Discipline",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 101,
+        "paper_title": "User Experience Evaluation Methods in Product Development (UXEM\u201909)",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 102,
+        "paper_title": "Play-Personas: Behaviours and Belief Systems in User-Centred Game Design",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 103,
+        "paper_title": "Hello World! Experiencing Usability Methods without Usability Expertise",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 104,
+        "paper_title": "Active Involvement of Software Developers in Usability Engineering: Two Small-Scale Case Studies",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 105,
+        "paper_title": "Do Teams Achieve Usability Goals? Evaluating Goal Achievement with Usability Goals Setting Tool",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 106,
+        "paper_title": "UX Professionals\u2019 Definitions of Usability and UX A Comparison Between Turkey, Finland, Denmark, France and Malaysia",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 107,
+        "paper_title": "User-Centered Evaluation of the Responsiveness of Applications",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 108,
+        "paper_title": "An Integrated Approach to Develop Interactive Software",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 109,
+        "paper_title": "Sketching Language: User-Centered Design of a Wizard of Oz Prototyping Framework",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 110,
+        "paper_title": "Usability Planner: A Tool to Support the Process of Selecting Usability Methods",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 111,
+        "paper_title": "User Experience Guidelines for Designing HMD Extended Reality Applications",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 112,
+        "paper_title": "Use Case Evaluation (UCE): A Method for Early Usability Evaluation in Software Development",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 113,
+        "paper_title": "Hammering Models: Designing Usable Modeling Tools",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 114,
+        "paper_title": "User Experience Specification through Quality Attributes",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 115,
+        "paper_title": "A Method and Tool for Analyzing Usability Testing Data in the Business Sector",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 116,
+        "paper_title": "Usability Specialists as Boundary Spanners An Appraisal of Usability Specialists\u2019 Work in Multiparty Distributed Open Source Software Development Effort",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 117,
+        "paper_title": "Evaluating User Experience for Interactive Television: Towards the Development of a Domain-Specific User Experience Questionnaire",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 118,
+        "paper_title": "Collaborative Human-Machine Communication: User-Centered Design of In-Vehicle Speech Dialog Systems",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 119,
+        "paper_title": "HCI Practices in the Nigerian Software Industry",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 120,
+        "paper_title": "The Centre for Internationalization and Usability: Enabling Culture-Centred Design for All",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 121,
+        "paper_title": "Understanding Users In Context: An In-Depth Introduction to Fieldwork for User Centered Design",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 122,
+        "paper_title": "Understanding Users in Context: An In-Depth Introduction to Fieldwork for User Centered Design",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 123,
+        "paper_title": "User Experience Research at Tech Mahindra",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 124,
+        "paper_title": "Experimentally Manipulating Positive User Experience Based on the Fulfilment of User Needs",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 125,
+        "paper_title": "Designing for the Secondary User Experience",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 126,
+        "paper_title": "The Landscape of UX Requirements Practices",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 127,
+        "paper_title": "Usability Evaluation in a Digitally Emerging Country: A Survey Study",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 128,
+        "paper_title": "Get Your Requirements Straight: Storyboarding Revisited",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 129,
+        "paper_title": "User Experience Research in the Semiconductor Factory: A Contradiction?",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 130,
+        "paper_title": "Non-response, Social Exclusion, and False Acceptance: Gatekeeping Tactics and Usability Work in Free-Libre Open Source Software Development",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 131,
+        "paper_title": "User Experience Evaluation in Entertainment and Games",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 132,
+        "paper_title": "OPEN-HEREDEUX: OPEN HEuristic REsource for Designing and Evaluating User eXperience",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 133,
+        "paper_title": "Mind the Gap! Comparing Retrospective and Concurrent Ratings of Emotion in User Experience Evaluation",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 134,
+        "paper_title": "Towards an Experimental Framework for Measuring Usability of Model-Driven Tools",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 135,
+        "paper_title": "User-Centered Design between Cultures: Designing for and with Immigrants",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 136,
+        "paper_title": "WIPDash: Work Item and People Dashboard for Software Development Teams",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 137,
+        "paper_title": "Towards a Framework for the Classification of Usability Issues",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 138,
+        "paper_title": "Demarcating User eXperience",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 139,
+        "paper_title": "User-Centered Design and Business Process Modeling: Cross Road in Rapid Prototyping Tools",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 140,
+        "paper_title": "Web Design for Science Museum towards Engaging User Experience",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 141,
+        "paper_title": "Deep System Knowledge Required: Revisiting UCD Contribution in the Design of Complex Command and Control Systems",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 142,
+        "paper_title": "Extending Mobile App Analytics for Usability Test Logging",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 143,
+        "paper_title": "Testing the Unknown Value of Usability Testing for Complex Professional Systems Development",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2015"
+    },
+    {
+        "paper_num": 144,
+        "paper_title": "Adoption of UX Evaluation in Practice: An Action Research Study in a Software Organization",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 145,
+        "paper_title": "Integrating Personas and Use Case Models",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2019"
+    },
+    {
+        "paper_num": 146,
+        "paper_title": "CodeSaw: A Social Visualization of Distributed Software Development",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 147,
+        "paper_title": "User Experience Evaluation Which Method to Choose?",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 148,
+        "paper_title": "Sensemaking and Knowledge Building in System Development",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 149,
+        "paper_title": "User Experience in Cars",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 150,
+        "paper_title": "Playability: How to Identify the Player Experience in a Video Game",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 151,
+        "paper_title": "Introducing a Pairwise Comparison Scale for UX Evaluations with Preschoolers",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 152,
+        "paper_title": "Designing a Trade-Off Between Usability and Security: A Metrics Based-Model",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 153,
+        "paper_title": "Enterprise Software Experience Design: Journey and Lessons",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 154,
+        "paper_title": "Barefooted Usability Evaluation: Addressing the Mindset, Resources and Competences",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    },
+    {
+        "paper_num": 155,
+        "paper_title": "The Design and Usability Testing of DACADE A Tool Supporting Systematic Data Collection and Analysis for Design Students",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2013"
+    },
+    {
+        "paper_num": 156,
+        "paper_title": "What Needs Tell Us about User Experience",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2009"
+    },
+    {
+        "paper_num": 157,
+        "paper_title": "What is User\u2019s Perception of Naturalness? An Exploration of Natural User Experience",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2017"
+    },
+    {
+        "paper_num": 158,
+        "paper_title": "Usability Cost-Benefit Analysis: How Usability Became a Curse Word?",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2007"
+    },
+    {
+        "paper_num": 159,
+        "paper_title": "Comparing User Experience and Performance in SecondLife and Blackboard",
+        "publication_title": "IFIP Conference on Human-Computer Interaction",
+        "publication_year": "2011"
+    }
+]

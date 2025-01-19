@@ -1,0 +1,392 @@
+[
+    {
+        "index": 1,
+        "name": "How to improve working processes between dev team and UX/UI designer?",
+        "link": "https://ux.stackexchange.com/questions/144725/how-to-improve-working-processes-between-dev-team-and-ux-ui-designer/144769#144769",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 2,
+        "name": "Who should manage CSS colour variables in a web project? Design or Front-End?",
+        "link": "https://ux.stackexchange.com/questions/140837/who-should-manage-css-colour-variables-in-a-web-project-design-or-front-end/140843#140843",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 3,
+        "name": "How to work with devs as a junior UX designer",
+        "link": "https://ux.stackexchange.com/questions/135804/how-to-work-with-devs-as-a-junior-ux-designer/135807#135807",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 4,
+        "name": "UI/UX in agile team vs technical limitation of design",
+        "link": "https://ux.stackexchange.com/questions/131656/ui-ux-in-agile-team-vs-technical-limitation-of-design/131667#131667",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 5,
+        "name": "How to collaborate with UX developers",
+        "link": "https://ux.stackexchange.com/questions/125859/how-to-collaborate-with-ux-developers/125919#125919",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 6,
+        "name": "Design QA: Tools to support? [closed]",
+        "link": "https://ux.stackexchange.com/questions/142068/design-qa-tools-to-support",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 7,
+        "name": "UX in an iterative software development life cycle process?",
+        "link": "https://ux.stackexchange.com/questions/132851/ux-in-an-iterative-software-development-life-cycle-process/132864#132864",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 8,
+        "name": "How to perform usability studies on complex software",
+        "link": "https://ux.stackexchange.com/questions/147256/how-to-perform-usability-studies-on-complex-software/147257#147257",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 9,
+        "name": "Why is Figma/Adobe XD needed?",
+        "link": "https://ux.stackexchange.com/questions/143135/why-is-figma-adobe-xd-needed",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 10,
+        "name": "How to understand the technical issues while designing?",
+        "link": "https://ux.stackexchange.com/questions/133644/how-to-understand-the-technical-issues-while-designing/133645#133645",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 11,
+        "name": "How to help a development-oriented Product Manager understand that UX is important?",
+        "link": "https://ux.stackexchange.com/questions/131927/how-to-help-a-development-oriented-product-manager-understand-that-ux-is-importa",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 12,
+        "name": "Design and developer interaction",
+        "link": "https://ux.stackexchange.com/questions/138215/design-and-developer-interaction/138218#138218",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 13,
+        "name": "Design tokens in design systems - are designers working with developers?",
+        "link": "https://ux.stackexchange.com/questions/136765/design-tokens-in-design-systems-are-designers-working-with-developers/136809#136809",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 14,
+        "name": "When should the usability of a software be taken into consideration?",
+        "link": "https://ux.stackexchange.com/questions/132945/when-should-the-usability-of-a-software-be-taken-into-consideration",
+        "forum": "ux_stackexchange"
+    },
+    {
+        "index": 15,
+        "name": "How to improve product design through better designer-developer hand-off and collaboration",
+        "link": "https://www.reddit.com/r/UXDesign/comments/12hsdnm/how_to_improve_product_design_through_better/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 16,
+        "name": "How to improve collaboration with developers?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/zmf4s1/how_to_improve_collaboration_with_developers/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 17,
+        "name": "How do you collaborate with PMs and Engineers?",
+        "link": "https://www.reddit.com/r/ProductManagement/comments/sjmdey/how_should_pms_work_with_engineering_managers/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 18,
+        "name": "How do you connect Figma with your dev team? What about for changes after implementation / development?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/uhn981/how_do_you_connect_figma_with_your_dev_team_what/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 19,
+        "name": "How do you collaborate with developers?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/pp15aj/how_do_you_collaborate_with_developers/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 20,
+        "name": "Other than Figma, what softwares do you use daily?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/p3sgx2/other_than_figma_what_softwares_do_you_use_daily/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 21,
+        "name": "At which stage do you involve UX writers while working on a project? What is an ideal/preferred way of collaboration?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/p1krx3/at_which_stage_do_you_involve_ux_writers_while/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 22,
+        "name": "Does anyone here use QT in collab with software devs?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/lrpngo/does_anyone_here_use_qt_in_collab_with_software/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 23,
+        "name": "Miro - Figma\u2019s real competitor",
+        "link": "https://www.reddit.com/r/UXDesign/comments/ldw5xg/miro_figmas_real_competitor/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 24,
+        "name": "UX/UI Design Tools\n",
+        "link": "https://www.reddit.com/r/UXDesign/comments/hxer0f/uxui_design_tools/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 25,
+        "name": "I'm almost ready to give up on Adobe XD",
+        "link": "https://www.reddit.com/r/UXDesign/comments/hbj4jw/rant_im_almost_ready_to_give_up_on_adobe_xd/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 26,
+        "name": "UX Design Tools",
+        "link": "https://www.reddit.com/r/UXDesign/comments/gcm2o0/ux_design_tools/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 27,
+        "name": "Sketch for Teams VS Figma",
+        "link": "https://www.reddit.com/r/UXDesign/comments/g1w0qf/sketch_for_teams_vs_figma/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 28,
+        "name": "Any tips on collaborating with developers?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/f58s11/any_tips_on_collaborating_with_developers/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 29,
+        "name": "Figma vs XD vs Sketch",
+        "link": "https://www.reddit.com/r/UXDesign/comments/e25iuu/figma_vs_xd_vs_sketch/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 30,
+        "name": "Looking for a list of UX design tools",
+        "link": "https://www.reddit.com/r/UXDesign/comments/dp90vu/looking_for_a_list_of_ux_design_tools/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 31,
+        "name": "What is the most annoying part of working with developers as UX designer?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/v0sh4c/what_is_the_most_annoying_part_of_working_with/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 32,
+        "name": "UX to developer handoff",
+        "link": "https://www.reddit.com/r/UXDesign/comments/z2nis5/ux_to_developer_handoff/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 33,
+        "name": "UX Testing Platform Recommendations",
+        "link": "https://www.reddit.com/r/UXDesign/comments/osuzsq/ux_testing_platform_recommendations/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 34,
+        "name": "Is there any platform to post prototypes and receive feedback?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/fsz59l/is_there_any_platform_to_post_prototypes_and/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 35,
+        "name": "Figma x Adobe XD",
+        "link": "https://www.reddit.com/r/UXDesign/comments/11a2ju0/figma_x_adobe_xd/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 36,
+        "name": "I know my way around Figma, what other prototyping tool should I learn?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/10kz2zw/i_know_my_way_around_figma_what_other_prototyping/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 37,
+        "name": "Advanced UX design software...",
+        "link": "https://www.reddit.com/r/UXDesign/comments/xzkpvr/advanced_ux_design_software/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 38,
+        "name": "Design tools are just\u2026tools",
+        "link": "https://www.reddit.com/r/UXDesign/comments/xf06wn/design_tools_are_justtools/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 39,
+        "name": "Do designers at Adobe really use XD?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/xdsu7a/do_designers_at_adobe_really_use_xd/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 40,
+        "name": "Design / Eng handoff and QA",
+        "link": "https://www.reddit.com/r/UXDesign/comments/vsgfrj/design_eng_handoff_and_qa/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 41,
+        "name": "Share your stack! What tools do you use and recommend?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/nu3h62/share_your_stack_what_tools_do_you_use_and/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 42,
+        "name": "Prototyping tool for flow chart application.",
+        "link": "https://www.reddit.com/r/UXDesign/comments/k6imy3/prototyping_tool_for_flow_chart_application/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 43,
+        "name": "Hey designers, how do you manage your icons?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/12k01a8/hey_designers_how_do_you_manage_your_icons/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 44,
+        "name": "Is XD just that bad, or am I just bad at it?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/12bcwta/is_xd_just_that_bad_or_am_i_just_bad_at_it/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 45,
+        "name": "Open source alternatives (to Figma)",
+        "link": "https://www.reddit.com/r/UXDesign/comments/11veg61/open_source_alternatives_to_figma/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 46,
+        "name": "Does anyone know much about low code platforms? How do the affect UX at your company?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/10ff4xw/does_anyone_know_much_about_low_code_platforms/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 47,
+        "name": "How to convince my new team to use figma?!",
+        "link": "https://www.reddit.com/r/UXDesign/comments/z3foqp/how_to_convince_my_new_team_to_use_figma/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 48,
+        "name": "Do I need to know figma?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/wpub81/do_i_need_to_know_figma/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 49,
+        "name": "Why is Figma the best UXD software?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/rlorbm/why_is_figma_the_best_uxd_software/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 50,
+        "name": "Figma or Axure?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/pklqo7/figma_or_axure/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 51,
+        "name": "Best software for mockups?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/nedri3/best_software_for_mockups/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 52,
+        "name": "Transitioning from UX to software engineering",
+        "link": "https://www.reddit.com/r/UXDesign/comments/i9hqn3/transitioning_from_ux_to_software_engineering/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 53,
+        "name": "Transitioning from UX to software engineering",
+        "link": "https://www.reddit.com/r/UXDesign/comments/i0g066/software_engineer_to_ux_designer/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 54,
+        "name": "Will I limit job options by choosing a specific design software?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/h9cqad/will_i_limit_job_options_by_choosing_a_specific/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 55,
+        "name": "Does Figma beat Adobe XD even if you already use a powerful theme?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/xfeyke/does_figma_beat_adobe_xd_even_if_you_already_use/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 56,
+        "name": "I regret not using figma before",
+        "link": "https://www.reddit.com/r/UXDesign/comments/u09ztj/i_regret_not_using_figma_before/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 57,
+        "name": "My Company Just Brought In A Developer And Now I'm Thinking Of Learning Code",
+        "link": "https://www.reddit.com/r/UXDesign/comments/129rdsk/my_company_just_brought_in_a_developer_and_now_im/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 58,
+        "name": "What\u2019s your process for UI design system developer handoff?\n",
+        "link": "https://www.reddit.com/r/UXDesign/comments/12l3ixj/whats_your_process_for_ui_design_system_developer/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 59,
+        "name": "Help: how do you deliver designs to developers?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/11xupv0/help_how_do_you_deliver_designs_to_developers/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 60,
+        "name": "Should I be including touch targets in my developer handoffs?",
+        "link": "https://www.reddit.com/r/UXDesign/comments/yfvn6p/should_i_be_including_touch_targets_in_my/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 61,
+        "name": "UX handoff",
+        "link": "https://www.reddit.com/r/UXDesign/comments/vjcv1x/ux_handoff/",
+        "forum": "reddit_ux"
+    },
+    {
+        "index": 62,
+        "name": "UX Design Tools",
+        "link": "https://www.reddit.com/r/SoftwareEngineering/comments/gcm37g/ux_design_tools/",
+        "forum": "reddit_se"
+    },
+    {
+        "index": 63,
+        "name": "UX/Product Designer here. To what degree do engineers care about user-research?",
+        "link": "https://www.reddit.com/r/SoftwareEngineering/comments/107jqtl/uxproduct_designer_here_to_what_degree_do/",
+        "forum": "reddit_se"
+    },
+    {
+        "index": 64,
+        "name": "Software Engineering and UX design frustrations",
+        "link": "https://www.reddit.com/r/SoftwareEngineering/comments/sytmb2/software_engineering_and_ux_design_frustrations/",
+        "forum": "reddit_se"
+    },
+    {
+        "index": 65,
+        "name": "Design hand-off study",
+        "link": "https://www.reddit.com/r/SoftwareEngineering/comments/uhpuw3/design_handoff_study/",
+        "forum": "reddit_se"
+    }
+]
